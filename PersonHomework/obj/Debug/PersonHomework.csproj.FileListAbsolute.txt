@@ -1,0 +1,14 @@
+C:\Users\ncheburet\source\repos\PersonHomework\PersonHomework\bin\Debug\PersonHomework.exe.config
+C:\Users\ncheburet\source\repos\PersonHomework\PersonHomework\bin\Debug\PersonHomework.exe
+C:\Users\ncheburet\source\repos\PersonHomework\PersonHomework\bin\Debug\PersonHomework.pdb
+C:\Users\ncheburet\source\repos\PersonHomework\PersonHomework\obj\Debug\PersonHomework.csproj.CoreCompileInputs.cache
+C:\Users\ncheburet\source\repos\PersonHomework\PersonHomework\obj\Debug\PersonHomework.exe
+C:\Users\ncheburet\source\repos\PersonHomework\PersonHomework\obj\Debug\PersonHomework.pdb
+C:\Users\ncheburet\source\repos\PersonHomework\PersonHomework\obj\Debug\PersonHomework.csprojAssemblyReference.cache
+C:\Users\hesim\Desktop\Project\PersonHomework\bin\Debug\PersonHomework.exe.config
+C:\Users\hesim\Desktop\Project\PersonHomework\bin\Debug\PersonHomework.exe
+C:\Users\hesim\Desktop\Project\PersonHomework\bin\Debug\PersonHomework.pdb
+C:\Users\hesim\Desktop\Project\PersonHomework\obj\Debug\PersonHomework.csprojAssemblyReference.cache
+C:\Users\hesim\Desktop\Project\PersonHomework\obj\Debug\PersonHomework.csproj.CoreCompileInputs.cache
+C:\Users\hesim\Desktop\Project\PersonHomework\obj\Debug\PersonHomework.exe
+C:\Users\hesim\Desktop\Project\PersonHomework\obj\Debug\PersonHomework.pdb
